@@ -1,0 +1,17 @@
+advisor/Menu.java
+ advisor.Menu
+advisor/Album.java
+ advisor.Album
+advisor/Category.java
+ advisor.Category
+advisor/Artist.java
+ advisor.Artist
+advisor/Playlist.java
+ advisor.Playlist
+advisor/Main.java
+ advisor.Main
+advisor/Spotify.java
+ advisor.Spotify
+ advisor.Spotify$1
+advisor/Item.java
+ advisor.Item
